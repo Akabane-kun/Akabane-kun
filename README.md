@@ -15,7 +15,7 @@
 ## Contact me : 
 📫 [![Gmail Badge](https://img.shields.io/badge/-asthiseta@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:erlanggaaditya000@gmail.com)](erlanggaaditya000@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-asthi_21_-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/asthi_21_/)](https://www.instagram.com/asthi_21_/)
-![My Discord](https://discord-readme-badge.vercel.app/api?id=401394858192797714)
+[![My Discord](https://discord-readme-badge.vercel.app/api?id=401394858192797714)](https://discordapp.com/users/401394858192797714)
 
 <h2 align="center"><a href="https://youtu.be/frszEJb0aOo?t=4">"General Kenobi"</a></h2>
 <h6 align="center">Made with Me by ❤ </h6>
