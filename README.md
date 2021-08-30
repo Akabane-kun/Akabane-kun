@@ -1,16 +1,23 @@
-### Hi Hello 👋
+<h1 align="center">Hi Hello<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
 
-<!--
-**Akabane-kun/Akabane-kun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I am a student at Electronic Engineering Polytechnic Institute of Surabaya (づ ◕‿◕ )づ
+### and, my name is Erlangga, you can call me whatever you want
 
-Here are some ideas to get you started:
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## By the way here are some of my statistics 🚀
+![Akabane-kun's github stats](https://github-readme-stats.vercel.app/api?username=Akabane-kun&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akabane-kun&theme=tokyonight" alt="mystreak"/>
+![Akabane-kun's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akabane-kun&theme=tokyonight&layout=compact)
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+## Contact me : 
+📫 [![Gmail Badge](https://img.shields.io/badge/-asthiseta@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:erlanggaaditya000@gmail.com)](erlanggaaditya000@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-asthi_21_-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/asthi_21_/)](https://www.instagram.com/asthi_21_/)
+![My Discord](https://discord-readme-badge.vercel.app/api?id=401394858192797714)
+
+<h2 align="center"><a href="https://youtu.be/frszEJb0aOo?t=4">"General Kenobi"</a></h2>
+<h6 align="center">Made with Me by ❤ </h6>
+
+------
