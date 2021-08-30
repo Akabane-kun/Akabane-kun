@@ -5,7 +5,7 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-## By the way here are some of my statistics 🚀
+## Here are some of my statistics
 ![Akabane-kun's github stats](https://github-readme-stats.vercel.app/api?username=Akabane-kun&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akabane-kun&theme=tokyonight" alt="mystreak"/>
 ![Akabane-kun's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akabane-kun&theme=tokyonight&layout=compact)
