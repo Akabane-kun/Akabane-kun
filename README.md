@@ -14,8 +14,7 @@
 
 ## Contact me : 
 [![My Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:erlanggaaditya000@gmail.com)](mailto:erlanggaaditya000@gmail.com)
-📫 [![Gmail Badge](https://img.shields.io/badge/-asthiseta@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:erlanggaaditya000@gmail.com)](erlanggaaditya000@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-asthi_21_-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/asthi_21_/)](https://www.instagram.com/asthi_21_/)
+[![My Discord](	https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/401394858192797714)
 [![My Discord](https://discord-readme-badge.vercel.app/api?id=401394858192797714)](https://discordapp.com/users/401394858192797714)
 
 <h2 align="center"><a href="https://youtu.be/frszEJb0aOo?t=4">"General Kenobi"</a></h2>
