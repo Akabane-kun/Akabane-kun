@@ -20,7 +20,7 @@
 
 [![My Discord](https://discord-readme-badge.vercel.app/api?id=401394858192797714)](https://discordapp.com/users/401394858192797714)
 
-<h2 align="center"><a href="https://youtu.be/frszEJb0aOo?t=4">"General Kenobi"</a></h2>
+<h2 align="center">赤羽</h2>
 <h6 align="center">Made with Me by ❤ </h6>
 
 ------
